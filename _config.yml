@@ -1,6 +1,6 @@
 # main text of home
 name: Felix Ilie
-bio: Loves learning and teaching while laughing 
+bio: A blog about everything and nothing 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://felixilie.github.io/personal-webpage
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,20 +34,20 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: linkedin.com/in/felix-ilie/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/felixilie/
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: myemail@gmail.com
