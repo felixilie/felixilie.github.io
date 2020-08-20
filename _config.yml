@@ -38,10 +38,10 @@ disqus:
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: linkedin.com/in/felix-ilie/
+linkedin: felix-ilie
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/felixilie/
+github: felixilie
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +50,7 @@ github: https://github.com/felixilie/
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
   johndoe:
